@@ -474,8 +474,10 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
-  height: auto;
+  width: 150px;
+  height: 150px;
+	margin: 40px;
+	
 }
 
 .img-thumbnail {
